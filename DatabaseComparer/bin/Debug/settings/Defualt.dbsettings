@@ -1,0 +1,1 @@
+{"sourceServer":"192.168.9.65","sourceAuthentication":"Windows","sourceUser":"sa","sourcePassword":"123456","sourceDb":"homo","sourceSchema":"dbo","destServer":"192.168.9.65","destAuthentication":"SQL","destUser":"sa","destPassword":"123456","destDb":"lubri2","destSchema":"dbo","tableData":"","ignoreData":"","modifiedDate":"04-12-2018 12:09:30"}
